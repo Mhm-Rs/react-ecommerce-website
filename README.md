@@ -1,5 +1,3 @@
-# react-ecommerce-website
-
 # Technologies utilisées
 
 Ce projet a été réalisé avec MongoDB, Express, React et Node.js . Pour le design, j'ai utilisé le package "styled-components" <br/>
