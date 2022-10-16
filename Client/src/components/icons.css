@@ -1,0 +1,55 @@
+/* CERTAINS CSS UTILES POUR LES ELEMENTS DE COMPONENTS */
+
+.fa-cart-shopping{
+    font-size:25px;
+}
+
+.fa-magnifying-glass{
+    font-size:12px;
+    color:gray;
+}
+
+.fa-thin{
+    font-size:26px;
+}
+
+.fa-arrow-right{
+    font-size:24px;
+}
+
+.fa-arrow-left{
+    font-size:24px;
+}
+
+.fa-heart{
+    font-size:18px;
+}
+
+.fa-searchengin{
+    font-size:24px;
+}
+
+.fa-bag-shopping{
+    font-size: 18px;
+}
+
+.fa-paper-plane{
+    font-size: 20px;
+}
+
+.yea{
+    font-size:20px;
+}
+
+.fa-envelope,.fa-location-dot,.fa-phone{
+    margin-right: 10px;
+}
+
+.fa-minus,.fa-plus{
+    cursor:pointer;
+}
+
+.link{
+    color:black;
+    text-decoration: none;
+}
